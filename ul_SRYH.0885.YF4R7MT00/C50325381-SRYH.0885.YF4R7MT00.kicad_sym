@@ -1,0 +1,78 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator "Easy ECAD Downloader")
+  (symbol "SRYH.0885.YF4R7MT00"
+    (in_bom yes)
+    (on_board yes)
+    (property
+    "Reference"
+    "L"
+    (id 0)
+    (at 0 5.08 0)
+    (effects (font (size 1.27 1.27) ) )
+  )
+    (property
+    "Value"
+    "SRYH.0885.YF4R7MT00"
+    (id 1)
+    (at 0 -5.08 0)
+    (effects (font (size 1.27 1.27) ) )
+  )
+    (property
+    "Footprint"
+    "IND-SMD_L9.8-W8.8_SRYH.0885.YF"
+    (id 2)
+    (at 0 -7.62 0)
+    (effects (font (size 1.27 1.27) ) hide)
+  )
+    (property
+    "LCSC Part"
+    "C50325381"
+    (id 5)
+    (at 0 -10.16 0)
+    (effects (font (size 1.27 1.27) ) hide)
+  )
+    (symbol "SRYH.0885.YF4R7MT00_0_1"
+          (arc
+            (start -4.06 0.01)
+            (mid -3.05 -1.02)
+            (end -2.03 -0.01)
+            (stroke (width 0) (type default) (color 0 0 0 0))
+            (fill (type background))
+          )
+          (arc
+            (start -2.03 0.01)
+            (mid -1.02 -1.02)
+            (end 0.00 -0.01)
+            (stroke (width 0) (type default) (color 0 0 0 0))
+            (fill (type background))
+          )
+          (arc
+            (start 2.03 0.01)
+            (mid 3.04 -1.02)
+            (end 4.06 -0.01)
+            (stroke (width 0) (type default) (color 0 0 0 0))
+            (fill (type background))
+          )
+          (arc
+            (start 0.00 0.01)
+            (mid 1.01 -1.02)
+            (end 2.03 -0.01)
+            (stroke (width 0) (type default) (color 0 0 0 0))
+            (fill (type background))
+          )
+          (pin unspecified line
+            (at 5.08 0.00 180)
+            (length 1.02)
+            (name "2" (effects (font (size 1.27 1.27))))
+            (number "2" (effects (font (size 1.27 1.27))))
+          )
+          (pin unspecified line
+            (at -5.08 0.00 0)
+            (length 1.02)
+            (name "1" (effects (font (size 1.27 1.27))))
+            (number "1" (effects (font (size 1.27 1.27))))
+          )
+    )
+  )
+)

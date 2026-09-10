@@ -1,0 +1,90 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator "Easy ECAD Downloader")
+  (symbol "MTM1480-3R9M-L"
+    (in_bom yes)
+    (on_board yes)
+    (property
+    "Reference"
+    "L"
+    (id 0)
+    (at 0 12.70 0)
+    (effects (font (size 1.27 1.27) ) )
+  )
+    (property
+    "Value"
+    "MTM1480-3R9M-L"
+    (id 1)
+    (at 0 -10.16 0)
+    (effects (font (size 1.27 1.27) ) )
+  )
+    (property
+    "Footprint"
+    "IND-SMD_3P-L14.9-W14.9"
+    (id 2)
+    (at 0 -12.70 0)
+    (effects (font (size 1.27 1.27) ) hide)
+  )
+    (property
+    "LCSC Part"
+    "C20069098"
+    (id 5)
+    (at 0 -15.24 0)
+    (effects (font (size 1.27 1.27) ) hide)
+  )
+    (symbol "MTM1480-3R9M-L_0_1"
+          (rectangle
+            (start -5.08 5.08)
+            (end 5.08 -2.54)
+            (stroke (width 0) (type default) (color 0 0 0 0))
+            (fill (type background))
+          )
+          (arc
+            (start -4.06 0.01)
+            (mid -3.05 -1.02)
+            (end -2.03 -0.01)
+            (stroke (width 0) (type default) (color 0 0 0 0))
+            (fill (type background))
+          )
+          (arc
+            (start -2.03 0.01)
+            (mid -1.02 -1.02)
+            (end 0.00 -0.01)
+            (stroke (width 0) (type default) (color 0 0 0 0))
+            (fill (type background))
+          )
+          (arc
+            (start 2.03 0.01)
+            (mid 3.04 -1.02)
+            (end 4.06 -0.01)
+            (stroke (width 0) (type default) (color 0 0 0 0))
+            (fill (type background))
+          )
+          (arc
+            (start 0.00 0.01)
+            (mid 1.01 -1.02)
+            (end 2.03 -0.01)
+            (stroke (width 0) (type default) (color 0 0 0 0))
+            (fill (type background))
+          )
+          (pin unspecified line
+            (at 2.54 -5.08 90)
+            (length 2.54)
+            (name "2" (effects (font (size 1.27 1.27))))
+            (number "2" (effects (font (size 1.27 1.27))))
+          )
+          (pin unspecified line
+            (at -2.54 -5.08 90)
+            (length 2.54)
+            (name "1" (effects (font (size 1.27 1.27))))
+            (number "1" (effects (font (size 1.27 1.27))))
+          )
+          (pin unspecified line
+            (at 0.00 7.62 270)
+            (length 2.54)
+            (name "3" (effects (font (size 1.27 1.27))))
+            (number "3" (effects (font (size 1.27 1.27))))
+          )
+    )
+  )
+)

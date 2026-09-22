@@ -4994,7 +4994,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C77058.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C15725.pdf"
 			(at 182.88 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -5025,7 +5025,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77058"
+		(property "LCSC" "C15725"
 			(at 182.88 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -5502,7 +5502,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C77058.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C15725.pdf"
 			(at 111.76 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -5533,7 +5533,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77058"
+		(property "LCSC" "C15725"
 			(at 111.76 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6983,7 +6983,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C77058.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C15725.pdf"
 			(at 96.52 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7014,7 +7014,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77058"
+		(property "LCSC" "C15725"
 			(at 96.52 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7534,7 +7534,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C49652939.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25741.pdf"
 			(at 256.54 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7556,7 +7556,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C49652939"
+		(property "LCSC" "C25741"
 			(at 256.54 119.38 0)
 			(hide yes)
 			(show_name no)

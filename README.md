@@ -2,8 +2,8 @@
 
 Custom Battery Eliminator Circuit (BEC) PCB built around the **LM65680RZYR** buck switching regulator IC, efficiently stepping down a 12S battery input (36V–50.4V) to 5.2V and supporting up to 8A of continuous draw for VTOL drone servo rails.
 
-![Front View](images/Helios_12S_Servo_5V2_Buck_Front.png?v=2)
-![Back View](images/Helios_12S_Servo_5V2_Buck_Back.png?v=2)
+![Front View](images/Helios_12S_Servo_5V2_Buck_Front.png?v=3)
+![Back View](images/Helios_12S_Servo_5V2_Buck_Back.png?v=3)
 
 ## Features
 
@@ -18,19 +18,19 @@ Custom Battery Eliminator Circuit (BEC) PCB built around the **LM65680RZYR** buc
 
 ### Front Copper (Layer 1)
 
-![Front Copper](images/Helios_12S_Servo_5V2_Buck-F_Cu.svg?v=2)
+![Front Copper](images/Helios_12S_Servo_5V2_Buck-F_Cu.svg?v=3)
 
 ### Ground (Layer 2)
 
-![Ground](images/Helios_12S_Servo_5V2_Buck-In1_Cu.svg?v=2)
+![Ground](images/Helios_12S_Servo_5V2_Buck-In1_Cu.svg?v=3)
 
 ### Ground (Layer 3)
 
-![5.2 V](images/Helios_12S_Servo_5V2_Buck-In2_Cu.svg?v=2)
+![5.2 V](images/Helios_12S_Servo_5V2_Buck-In2_Cu.svg?v=3)
 
 ### Back Copper (Layer 4)
 
-![Back Copper](images/Helios_12S_Servo_5V2_Buck-B_Cu.svg?v=2)
+![Back Copper](images/Helios_12S_Servo_5V2_Buck-B_Cu.svg?v=3)
 
 ## Design Files
 
